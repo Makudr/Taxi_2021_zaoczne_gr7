@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\funak\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\funak\\.nuget\\packages"
+    ]
+  }
+}
